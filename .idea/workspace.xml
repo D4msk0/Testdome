@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45610e6-4d20-410a-855c-2edc3324c7b0" name="Changes" comment="" />
+    <list default="true" id="b45610e6-4d20-410a-855c-2edc3324c7b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testdome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Testdome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MalwareAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MalwareAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MergeNames.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +38,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MalwareAnalysis.executor": "Run",
     "Maven.Testdome [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "MergeNames",
+    "git-widget-placeholder": "MalwareAnalysis",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/merry/Repo/Testdome/src/main/java",
     "project.structure.last.edited": "Project",
