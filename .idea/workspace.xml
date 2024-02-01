@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45610e6-4d20-410a-855c-2edc3324c7b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Snapshot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MalwareAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MalwareAnalysis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MalwareAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MalwareAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IceCreamMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MalwareAnalysis.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MalwareAnalysis.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Testdome [package].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;MalwareAnalysis&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/merry/Repo/Testdome/src/main/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hobbies.executor": "Run",
+    "Application.MalwareAnalysis.executor": "Run",
+    "Application.MathUtils.executor": "Debug",
+    "Application.Node.executor": "Run",
+    "Application.Snapshot.executor": "Run",
+    "Application.UniqueNumbers.executor": "Run",
+    "Maven.Testdome [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "IcecreamMachine",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/merry/Repo/Testdome/src/main/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -80,6 +86,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Snapshot.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
