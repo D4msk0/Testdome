@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45610e6-4d20-410a-855c-2edc3324c7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Snapshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IceCreamMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MalwareAnalysis.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b45610e6-4d20-410a-855c-2edc3324c7b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Hobbies.executor": "Run",
+    "Application.Hobbies.executor": "Debug",
     "Application.MalwareAnalysis.executor": "Run",
     "Application.MathUtils.executor": "Debug",
     "Application.Node.executor": "Run",
@@ -47,7 +42,7 @@
     "Maven.Testdome [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "IcecreamMachine",
+    "git-widget-placeholder": "Assessment",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/merry/Repo/Testdome/src/main/java",
     "project.structure.last.edited": "Project",
@@ -90,6 +85,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Snapshot.java</url>
           <line>2</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hobbies.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
